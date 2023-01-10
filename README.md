@@ -1,1 +1,1 @@
-# facial-recognition-project
+# Facial Recognition Group Project

@@ -1,4 +1,4 @@
-# Facial Recognition Group Project
+# FACIAL RECOGNITION GROUP PROJECT
 
 ## Intro/Problem:
 Facial recognition technology relies on massive datasets to “learn” faces to accurately identify or verify the identity of a person. It captures, analyzes, and compares patterns based on a person’s facial features. Facial biometrics continues to be the preferred biometric benchmark above all other methods because it’s easy to deploy and implement, does not require any physical interaction with the end-user, and is very quick.
